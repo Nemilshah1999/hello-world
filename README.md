@@ -8,8 +8,3 @@ I would like to say :
 :stuck_out_tongue:   
 - [X] Finished my task   
 - [ ] Open a pull requests    
-
-# Hello-world
-Hey There Nemil here!!
-Lets get started here!!
-master
